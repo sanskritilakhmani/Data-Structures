@@ -28,9 +28,13 @@ Overview:
 -----------------------
 
 Overview of Data Structures | Set 1 (Linear Data Structures)
+
 Overview of Data Structures | Set 2 (Binary Tree, BST, Heap and Hash)
+
 Overview of Data Structures | Set 3 (Graph, Trie, Segment Tree and Suffix Tree)
+
 Abstract Data Types
+
 Linked List:
 
 
